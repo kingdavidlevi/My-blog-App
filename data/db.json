@@ -1,0 +1,150 @@
+{
+   "Blogs" :[
+
+    {
+      "id":1,
+      "name": "Kelvin",
+      "username" :"@kelvin-tech",
+      "comments" : "When you’re on top of the world you feel motivated to do a great job at work. However we all have those days when we need a little bit of extra motivation. Here are the top 10 tech quotes to inspire you…. or at the very least, put a smile on your face!"
+    },
+    {
+      "id":2,
+      "name": "King_david",
+      "username" :"@dave-tech",
+      "comments" : " The ability to take data – to be able to understand it, to process it, to extract value from it, to visualise it, to communicate it – is going to be a hugely important skill in the next decades."
+    },
+    {
+      "id":3,
+      "name": "Levi",
+      "username" :"@Code_king",
+      "comments" : "Torture the data and it will confess to anything. "
+    },
+    {
+      "id":4,
+      "name": "romeo",
+      "username" :"@romeo2",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":5,
+      "name": "Saint",
+      "username" :"@paris",
+      "comments" : " The ability to take data – to be able to understand it, to process it, to extract value from it, to visualise it, to communicate it – is going to be a hugely important skill in the next decades. "
+    },
+    {
+      "id":6,
+      "name": "Thomas",
+      "username" :"@code_war",
+      "comments" : " Torture the data and it will confess to anything.  "
+    },
+    {
+      "id":29,
+      "name": "Prosper",
+      "username" :"@pro_tech",
+      "comments" :  "“If future generations are to remember us more with gratitude than sorrow, we must achieve more than just the miracles of technology. We must also leave them a glimpse of the world as it was created, not just as it looked when we got through with it.”" 
+    },
+    {
+      "id":7,
+      "name": "Melody",
+      "username" :"@Meldriod",
+      "comments" : " The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life. "
+    },
+    {
+      "id":8,
+      "name": "Olokwa",
+      "username" :"@Police_tech",
+      "comments" : "Technology is a useful servant but a dangerous master "
+    },
+    {
+      "id":9,
+      "name": "Joshua",
+      "username" :"@Blackscript",
+      "comments" : " Design is not just what it looks like and feels like .Design is how it works "
+    },
+    {
+      "id":10,
+      "name": "Patrick",
+      "username" :"@Tech_mage",
+      "comments" : " Any sufficiently advanced technology is indistinguishable from magic. "
+    },
+    {
+      "id":11,
+      "name": "Obinna",
+      "username" :"@Write_code",
+      "comments" : " “If future generations are to remember us more with gratitude than sorrow, we must achieve more than just the miracles of technology. We must also leave them a glimpse of the world as it was created, not just as it looked when we got through with it.” "
+    },
+    {
+      "id":12,
+      "name": "Jasper",
+      "username" :"@jaspee",
+      "comments" : " One machine can do the work of fifity ordinary men .No machine can do the work of one extraordinary man "
+    },
+    {
+      "id":13,
+      "name": "philip",
+      "username" :"@philpee",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":14,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":15,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":16,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":17,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":18,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":19,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":20,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":21,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":22,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    },
+    {
+      "id":23,
+      "name": "Newbie",
+      "username" :"@newbie",
+      "comments" : "I have no data yet. It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” "
+    }
+
+   ]
+}

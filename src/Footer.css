@@ -1,0 +1,217 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+@media screen and (max-width:520px){
+.footer-div{
+    height: 65px;
+    border-top:1px solid lightgray ;
+   padding-top: 20px;
+   position: fixed;
+   z-index: 2;
+   width: 100%;
+   background-color: #243447;
+   display: flex;
+   padding-left: 22px;
+   bottom: 0;
+   transition: bottom 1s;
+}
+.footer-home{
+    margin-right: 57px;
+    position: relative;
+}
+
+.home-icon{
+    width: 9px;
+    height: 9px;
+    background-color: dodgerblue;
+    position: absolute;
+    bottom: 45px;
+    border-radius: 50px;
+    left: 10px;
+}
+.home{
+    color: white;
+    font-size: 30px;
+}
+.search{
+    color: white;
+    font-size: 25px;
+    margin-top: 2px;
+}
+.footer-search{
+    margin-right: 57px;
+}
+.userplus{
+    color: white;
+    font-size: 30px;
+     
+}
+.footer-user{
+    margin-right: 57px;
+}
+.footer-bell{
+    position: relative;
+    margin-right: 57px;
+}
+.bell-icon{
+    width: 20px;
+    height: 20px;
+    background-color:  dodgerblue;
+    position: absolute;
+    bottom: 33px;
+    border-radius: 50px;
+    left: 13px;
+   text-align: center;
+   padding-bottom: 20px;
+   align-items: center;
+}
+.bell-p{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    
+}
+.bell{
+    color: white;
+    font-size: 25px;  
+}
+.footer-envelope{
+    position: relative;
+    
+}
+.envelope-icon{
+    width: 50px;
+    height: 50px;
+    background-color:dodgerblue;
+    position: absolute;
+    bottom: 75px;
+    border-radius: 50px;
+    z-index: 1;
+    left: 65px;
+    
+    
+
+}
+.plus{
+    margin-left: 13px;
+    margin-top: 12px;
+    color: white;
+    font-size: 25px;
+}
+
+.envelope{
+    color: white;
+    font-size: 25px; 
+}
+
+}
+
+
+@media screen and (max-width:390px){
+.footer-div{
+    height: 65px;
+    border-top:1px solid lightgray ;
+   padding-top: 20px;
+   position: fixed;
+   z-index: 2;
+   width: 100%;
+   background-color: #243447;
+   display: flex;
+   padding-left: 22px;
+   bottom: 0;
+   transition: bottom 1s;
+}
+.footer-home{
+    margin-right: 50px;
+    position: relative;
+}
+
+.home-icon{
+    width: 9px;
+    height: 9px;
+    background-color: dodgerblue;
+    position: absolute;
+    bottom: 45px;
+    border-radius: 50px;
+    left: 10px;
+}
+.home{
+    color: white;
+    font-size: 30px;
+}
+.search{
+    color: white;
+    font-size: 25px;
+    margin-top: 2px;
+}
+.footer-search{
+    margin-right: 50px;
+}
+.userplus{
+    color: white;
+    font-size: 30px;
+     
+}
+.footer-user{
+    margin-right: 50px;
+}
+.footer-bell{
+    position: relative;
+    margin-right: 50px;
+}
+.bell-icon{
+    width: 20px;
+    height: 20px;
+    background-color:  dodgerblue;
+    position: absolute;
+    bottom: 33px;
+    border-radius: 50px;
+    left: 13px;
+   text-align: center;
+   padding-bottom: 20px;
+   align-items: center;
+}
+.bell-p{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    
+}
+.bell{
+    color: white;
+    font-size: 25px;  
+}
+.footer-envelope{
+    position: relative;
+    
+}
+.envelope-icon{
+    width: 50px;
+    height: 50px;
+    background-color:dodgerblue;
+    position: absolute;
+    bottom: 75px;
+    border-radius: 50px;
+    z-index: 1;
+    left: 65px;
+    
+    
+
+}
+.plus{
+    margin-left: 13px;
+    margin-top: 12px;
+    color: white;
+    font-size: 25px;
+}
+
+.envelope{
+    color: white;
+    font-size: 25px; 
+}
+
+}

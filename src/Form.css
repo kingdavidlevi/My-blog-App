@@ -1,0 +1,320 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@media screen and (max-width:520px){
+ 
+.login-div{
+     background-color:#141d26;
+   height: 100vh;
+}
+
+.login-section{
+     
+    background-color:   #243447 ;
+    text-align: center;
+    padding-bottom: 40px;
+    justify-content: center;
+    width: 350px;
+  position:  relative;
+  left: 50%;
+  -ms-transform:
+  translate(-50%,-50%);
+  transform: translate(-50%, -50%);
+   top: 50%;
+   border-radius: 20px;
+   border: 1px solid lightgrey;
+   
+}
+.textarea::placeholder{
+  color:  white;
+  font-size: 18px;
+  font-weight: bold;
+ 
+}
+.login-p{
+  color: white;
+  font-size: 18px;
+}
+
+.textarea{
+  width: 350px;
+  height: 250px;
+  background-color:#243447;
+  color: white;
+  font-size:20px ;
+  margin-left: 30px;
+  margin-top: 35px;
+  padding: 15px 15px;
+  border-radius: 15px;
+  border: none;
+  border: 1px solid gray;
+  outline: none;
+}
+
+.input1{
+  margin-top: 100px;
+  width: 270px;
+  padding: 10px 0px 5px 25px;
+  background-color:    #243447  ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid lightgrey;
+  outline: none;
+  font-size: 20px;
+  color:white;
+margin-bottom: 25px;
+}
+
+.login-sign{
+  color: blueviolet;
+  font-size: 18px;
+ 
+}
+.input2{
+  width: 270px;
+  padding: 10px 0px 5px 25px;
+  background-color:    #243447  ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid lightgrey;
+  outline: none;
+  font-size: 20px;
+  color: white;
+margin-bottom: 25px;
+}
+.input3{
+  width: 270px;
+  padding: 10px 0px 5px 25px;
+  background-color:    #243447  ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid lightgrey;
+  outline: none;
+  font-size: 25px;
+  color: white;
+margin-bottom: 25px;
+ 
+}
+.login-btn{
+  width: 270px;
+  background-color: navy;
+  padding: 8px 0px 8px 0px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+ .input1::placeholder{
+  color:  white;
+ }
+
+.login-user{
+  width: 120px;
+  height:120px;
+  background-color:  lightgrey;
+  font-size: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+   position: relative;
+   color:    #243447 ;
+   font-size: 80px;
+   border-radius: 50%;
+   padding-top: 10px;
+  position: absolute;
+}
+.login-username{
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 108px;
+}
+.login-envelope{
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  top: 175px;
+}
+.login-lock{
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  top: 245px;
+}
+.span{
+  margin-left: 10px;
+   
+}
+.login-eye{
+  color: white;
+  position: absolute;
+  font-size: 20px;
+  top: 245px;
+  right: 45px;
+}
+}
+
+@media screen and (max-width:390px){
+ 
+.login-div{
+     background-color:#141d26;
+   height: 100vh;
+}
+
+.login-section{
+     
+    background-color:   #243447 ;
+    text-align: center;
+    padding-bottom: 40px;
+    justify-content: center;
+    width: 350px;
+  position:  relative;
+  left: 50%;
+  -ms-transform:
+  translate(-50%,-50%);
+  transform: translate(-50%, -50%);
+   top: 50%;
+   border-radius: 20px;
+   border: 1px solid lightgrey;
+   
+}
+.textarea::placeholder{
+  color:  white;
+  font-size: 18px;
+  font-weight: bold;
+ 
+}
+.login-p{
+  color: white;
+  font-size: 18px;
+}
+
+.textarea{
+  width: 350px;
+  height: 250px;
+  background-color:#243447;
+  color: white;
+  font-size:20px ;
+  margin-left: 30px;
+  margin-top: 35px;
+  padding: 15px 15px;
+  border-radius: 15px;
+  border: none;
+  border: 1px solid gray;
+  outline: none;
+}
+
+.input1{
+  margin-top: 100px;
+  width: 270px;
+  padding: 10px 0px 5px 25px;
+  background-color:    #243447  ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid lightgrey;
+  outline: none;
+  font-size: 20px;
+  color:white;
+margin-bottom: 25px;
+}
+
+.login-sign{
+  color: blueviolet;
+  font-size: 18px;
+ 
+}
+.input2{
+  width: 270px;
+  padding: 10px 0px 5px 25px;
+  background-color:    #243447  ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid lightgrey;
+  outline: none;
+  font-size: 20px;
+  color: white;
+margin-bottom: 25px;
+}
+.input3{
+  width: 270px;
+  padding: 10px 0px 5px 25px;
+  background-color:    #243447  ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid lightgrey;
+  outline: none;
+  font-size: 25px;
+  color: white;
+margin-bottom: 25px;
+ 
+}
+.login-btn{
+  width: 270px;
+  background-color: navy;
+  padding: 8px 0px 8px 0px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+ .input1::placeholder{
+  color:  white;
+ }
+
+.login-user{
+  width: 120px;
+  height:120px;
+  background-color:  lightgrey;
+  font-size: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+   position: relative;
+   color:    #243447 ;
+   font-size: 80px;
+   border-radius: 50%;
+   padding-top: 10px;
+  position: absolute;
+}
+.login-username{
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 108px;
+}
+.login-envelope{
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  top: 175px;
+}
+.login-lock{
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  top: 245px;
+}
+.span{
+  margin-left: 10px;
+   
+}
+.login-eye{
+  color: white;
+  position: absolute;
+  font-size: 20px;
+  top: 245px;
+  right: 45px;
+}
+}
